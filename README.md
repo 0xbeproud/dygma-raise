@@ -1,3 +1,3 @@
 # dygma-raise
 
-![preferences](preference.png)
+![preferences](./preferences.png)
